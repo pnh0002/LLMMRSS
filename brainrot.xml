@@ -9,7 +9,7 @@
           <link>https://www.hobbyconsolas.com</link>
           <generator>RSS for Node</generator>
           <lastBuildDate>Mon, 21 Apr 2025 07:34:35 GMT</lastBuildDate>
-          <atom:link href="https://www.hobbyconsolas.com/rss" rel="self" type="application/rss+xml"/>
+          <atom:link href="https://www.hobbyconsolas.com/rss"  type="application/rss+xml"/>
           <copyright>
               <![CDATA[ Brainrot ]]>
           </copyright>
@@ -19,19 +19,14 @@
           
           
           <item>
-            <image>
-                <url>img/tralalero.jpg</url>
-                <title>Itralalero tralala</title>
-                
-                <width>142</width>
-                <height>44</height>
-            </image>
+            
               <title>
                     <![CDATA[ Tralalero tralala se va de vacaciones al caribe]]>
               </title>
               <description>
                     <![CDATA[ Después de 35 años de servicio en la coste de Puerto Rico, Tralalero tralala se toma un más que merecido descanso en una playa paradisiaca de el caribe de ubicación desconocida hasta el momento.. ]]>
               </description>
+              <enclosure url="img/tralalero.jpg" type="image/jpg"></enclosure>
               <link>https://www.hobbyconsolas.com/noticias/debate-mega-man-iniciado-hace-35-anos-nes-llega-final-1387157</link>
 
               <dc:creator>
@@ -42,19 +37,14 @@
           
           
           <item>
-            <image>
-                <url>mg/lirililarila.jpg</url>
-                <title>Lirili Larila</title>
-                
-                <width>142</width>
-                <height>44</height>
-            </image>
+            
               <title>
                     <![CDATA[ Atacan a Lirili Larila]]>
               </title>
               <description>
                     <![CDATA[ Lirili Larila es atacado en su propia casa el día de hoy a las 18 de la tarde justo en la hora de la siesta. Por suerte ha sobrevivido a dicho ataque pero sigue buscando al responsable  ]]>
               </description>
+              <enclosure url="img/lirililarila.jpg" type="image/jpg"></enclosure>
               <link>https://www.ign.com</link>
 
               <dc:creator>
@@ -65,19 +55,14 @@
           
           
           <item>
-            <image>
-                <url>img/guerra.jpeg</url>
-                <title>guerra en Ucrania</title>
-                
-                <width>142</width>
-                <height>44</height>
-            </image>
+            
               <title>
                     <![CDATA[ Averiguan el paradero del homicida de lirili larila en Ucrania]]>
               </title>
               <description>
                     <![CDATA[ Bombardilo cocodrilo se ha desvelado como el autor del atentado contra lirili larila. Este se encuentra viviendo en un piso franco en Ucrania. ]]>
               </description>
+              <enclosure url="img/guerra.jpeg" type="image/jpeg"></enclosure>
               <link>https://www.youtube.com</link>
 
               <dc:creator>
@@ -87,25 +72,20 @@
           </item>
           
           <item>
-            <image>
-                <url>img/capuccino.jpg</url>
-                <title>Capuccino  mercenario a sueldo</title>
-                
-                <width>142</width>
-                <height>44</height>
-            </image>
+            
               <title>
                     <![CDATA[ Capuccino asesino es contratado para asesinar a bombardilo cocodrilo]]>
               </title>
               <description>
                     <![CDATA[ Lirili Larila contrata a capuccino asesino para asesinar al autor de la destrucción de su hogar, bombardilo cocodrilo]]>
               </description>
+              <enclosure url="img/capuccino.jpg" type="image/jpg"></enclosure>
               <link>https://www.google.es/</link>
 
               <dc:creator>
                   <![CDATA[ Pablo Nieto ]]>
               </dc:creator>
-              <guid isPermaLink="false">https://www.google.es</guid>
+              <guid isPermaLink="false">https://www.bing.com</guid>
           </item>
       
       </channel>
